@@ -1,0 +1,23 @@
+{
+  "1": {
+    "categoria": "dije",
+    "nombre": "metalico",
+    "color": "negro",
+    "marca": "nose",
+    "caracteristicas": [
+      "antialergico"
+    ],
+    "stock": 10
+  },
+  "3": {
+    "categoria": "lana",
+    "nombre": "chunky",
+    "color": "blanco",
+    "marca": "nosy",
+    "caracteristicas": [
+      "2cm grosor",
+      " antialergico"
+    ],
+    "stock": 8
+  }
+}

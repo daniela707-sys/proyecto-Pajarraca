@@ -1,0 +1,11 @@
+{
+  "1": {
+    "descripcion": "nose",
+    "precio": 5000.0,
+    "categoria": "dije",
+    "nombre": "metalico",
+    "color": "negro",
+    "marca": "nose",
+    "stock": 0
+  }
+}

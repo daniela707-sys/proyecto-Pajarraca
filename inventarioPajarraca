@@ -1,0 +1,34 @@
+{
+  "1": {
+    "categoria": "h01",
+    "nombre": "lana",
+    "color": "negro",
+    "marca": "nosy",
+    "caracteristicas": [
+      "2cm",
+      "grueso"
+    ],
+    "stock": 4
+  },
+  "2": {
+    "categoria": "h02",
+    "nombre": "boton",
+    "color": "blanco",
+    "marca": "botons",
+    "caracteristicas": [
+      "3agujeros"
+    ],
+    "stock": 5
+  },
+  "3": {
+    "categoria": "lana",
+    "nombre": "bebe",
+    "color": "rojo",
+    "marca": "nosy",
+    "caracteristicas": [
+      "2cm",
+      " crochet"
+    ],
+    "stock": 4
+  }
+}
